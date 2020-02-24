@@ -8,8 +8,8 @@
         <ol>
           <li><a href="2HTML.html">HTML</a></li>
           <li><a href="3기간.html">기간</a></li>
-          <li><a href="4느낀 점.html">느낀 점</a></li>
-          <li><a href="5총 정리.html">총 정리</a></li>
+          <li><a href="4느낀점.html">느낀 점</a></li>
+          <li><a href="5총정리.html">총 정리</a></li>
         </ol>
       </div>
       <h1>시작하며...</h1>
