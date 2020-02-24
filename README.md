@@ -5,10 +5,7 @@
     </head>
     <body>
       <ol>
-
         <li><a href="1여는글.html">보기</a></li>
-  
       </ol>
-
     </body>
   </html>
