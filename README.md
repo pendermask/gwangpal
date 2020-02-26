@@ -6,8 +6,8 @@
   <body>
     <h1>
       <ol>
-        <li><a href="~20200224/1여는글.html">HTML</a></li>
-        <li><a href="~20200226/CSS.html">CSS</a></li>
+        <li><a href="web/~20200224/1여는글.html">HTML</a></li>
+        <li><a href="web/~20200226/CSS.html">CSS</a></li>
         <li>?</li>
         <li>?</li>
       </ol>
